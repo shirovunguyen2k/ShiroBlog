@@ -11,4 +11,8 @@ export default defineConfig({
   build: {
     outDir: "./build",
   },
+  esbuild: {
+    target: 'esnext',
+    platform: 'browser',
+  }
 });
