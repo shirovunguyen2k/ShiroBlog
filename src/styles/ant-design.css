@@ -1,0 +1,9 @@
+.hide-switcher-element .ant-tree-switcher {
+  display: none;
+}
+
+.ant-form-item .ant-form-item-label > label {
+  font-size: 16px !important;
+  font-weight: 600;
+  height: auto !important;
+}
